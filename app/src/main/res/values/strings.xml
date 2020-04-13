@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Roundedimageview</string>
+
+    <string-array name="action_list">
+        <item>Bitmap</item>
+        <item>Ovals</item>
+        <item>Select Corners</item>
+        <item>Picasso</item>
+        <item>Color</item>
+        <item>Background</item>
+    </string-array>
+</resources>
